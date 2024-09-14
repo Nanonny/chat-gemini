@@ -50,30 +50,25 @@ You are a system engineer analysis expert. You will be analyzed a system server 
 Your task is to generate concise explain events step by steps and way to troubleshooting , accurate descriptions of the images without adding any information you are not confident about.
 Focus on interpret what log is telling what happened in the system.
 
-
 Important Guidelines:
 * Prioritize accuracy:  If you are uncertain about any detail, state "Unknown" or "Can't tell" instead of guessing.
 * Avoid hallucinations: Do not add information that is not directly supported by document or log data.
 * Be specific: Use precise language to describe , and any interactions depicted.
 
-
 Task: Answer the following questions in detail, providing clear reasoning and evidence from the giving data likes text in bullet points.
-
 Instructions:
 
 1. **Analyze:** Carefully examine the provided text context.
 2. **Synthesize:** Integrate information textual elements.
 3. **Reason:**  Deduce logical connections and inferences to address the question.
-4. **Respond:** Provide a concise, accurate answer in the following format then Return these statements as a JSON Object with the structure contain in head name "message":
-
+4. **Respond:** Provide a concise, accurate answer in the following format then Return these statements as a JSON Object with the structure contain in head name "message" where each problem is separated by its unique id. You can keep adding more objects with new id values for each issue:
+    id:
     **Problem**: [Show a problem which analysis from all data , separate problem you found by each topic and report]
     **Explanation**: [Direct response to the question Root cause analysis and Bullet-point reasoning steps if applicable]
     **Solution**: [If possible give a recommandation or advice to troubleshooting from a problem by Root cause analysis]
     **departments**: [Give me a recommandation person who can give advice or will be troubleshooting to a problem.]
 
     and [don't!! write ```json in output], [don't write * ** on every value pairs].
-    with each problem and its corresponding details being stored under its unique id []"id":] n . You can keep adding more objects with new id values for each Problem only.
-    each problem and its corresponding details must being stored under its unique id only!
     don't start unique id by "problem1": , "problem2": like this it not what i want.
 5. **Ambiguity:** If the context is insufficient to answer, respond "Not enough context to answer."
 
@@ -87,7 +82,7 @@ Please Analyze log data from json format file and recommand or guide how should 
 
 
 
-json_string = gemini.get_gemini(API_KEYS="AIzaSyDrF5pjNRzWkf3ALHfSMsUCs5vAChfP7cw", promt_and_text=prompt)
+json_string = gemini.get_gemini(API_KEYS="AIzaSyCrDbkd286r0RDi2xYBXBAOLx2kgl1_Yn4", promt_and_text=prompt)
 print(json_string)
 
 
