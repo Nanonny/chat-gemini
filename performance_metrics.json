@@ -1,0 +1,335 @@
+{
+    "data":
+    [
+        {
+            "Memory_Available_Bytes": 28655206400,
+            "Memory_Committed_Bytes": 5700706304,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4432669184,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 3.0,
+            "Process_Total_Private_Bytes": 15110144,
+            "Timestamp": "2024-09-13 18:49:06"
+        },
+        {
+            "Memory_Available_Bytes": 28656234496,
+            "Memory_Committed_Bytes": 5699678208,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4432873984,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 0.2,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:08"
+        },
+        {
+            "Memory_Available_Bytes": 28658585600,
+            "Memory_Committed_Bytes": 5697327104,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4432873984,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.6,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:10"
+        },
+        {
+            "Memory_Available_Bytes": 28655632384,
+            "Memory_Committed_Bytes": 5700280320,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433021440,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.7999999999999998,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:12"
+        },
+        {
+            "Memory_Available_Bytes": 28646821888,
+            "Memory_Committed_Bytes": 5709090816,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433021440,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.2,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:14"
+        },
+        {
+            "Memory_Available_Bytes": 28663521280,
+            "Memory_Committed_Bytes": 5692391424,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433025536,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.0,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:16"
+        },
+        {
+            "Memory_Available_Bytes": 28669644800,
+            "Memory_Committed_Bytes": 5686267904,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433025536,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.9000000000000004,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:18"
+        },
+        {
+            "Memory_Available_Bytes": 28655788032,
+            "Memory_Committed_Bytes": 5700124672,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433091072,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.6,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:20"
+        },
+        {
+            "Memory_Available_Bytes": 28657528832,
+            "Memory_Committed_Bytes": 5698383872,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433168896,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.4,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:22"
+        },
+        {
+            "Memory_Available_Bytes": 28668850176,
+            "Memory_Committed_Bytes": 5687062528,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433259008,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.0,
+            "Process_Total_Private_Bytes": 15126528,
+            "Timestamp": "2024-09-13 18:49:24"
+        },
+        {
+            "Memory_Available_Bytes": 28669227008,
+            "Memory_Committed_Bytes": 5686685696,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433304064,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.4,
+            "Process_Total_Private_Bytes": 15130624,
+            "Timestamp": "2024-09-13 18:49:26"
+        },
+        {
+            "Memory_Available_Bytes": 28673171456,
+            "Memory_Committed_Bytes": 5682741248,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433304064,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.2000000000000002,
+            "Process_Total_Private_Bytes": 15130624,
+            "Timestamp": "2024-09-13 18:49:28"
+        },
+        {
+            "Memory_Available_Bytes": 28673978368,
+            "Memory_Committed_Bytes": 5681934336,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433316352,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 0.8,
+            "Process_Total_Private_Bytes": 15134720,
+            "Timestamp": "2024-09-13 18:49:30"
+        },
+        {
+            "Memory_Available_Bytes": 28676694016,
+            "Memory_Committed_Bytes": 5679218688,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433381888,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 0.4,
+            "Process_Total_Private_Bytes": 15134720,
+            "Timestamp": "2024-09-13 18:49:32"
+        },
+        {
+            "Memory_Available_Bytes": 28676464640,
+            "Memory_Committed_Bytes": 5679448064,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433500672,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.4,
+            "Process_Total_Private_Bytes": 15134720,
+            "Timestamp": "2024-09-13 18:49:34"
+        },
+        {
+            "Memory_Available_Bytes": 28676976640,
+            "Memory_Committed_Bytes": 5678936064,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433500672,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.0,
+            "Process_Total_Private_Bytes": 15134720,
+            "Timestamp": "2024-09-13 18:49:36"
+        },
+        {
+            "Memory_Available_Bytes": 28677337088,
+            "Memory_Committed_Bytes": 5678575616,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433521152,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.2,
+            "Process_Total_Private_Bytes": 15134720,
+            "Timestamp": "2024-09-13 18:49:38"
+        },
+        {
+            "Memory_Available_Bytes": 28677369856,
+            "Memory_Committed_Bytes": 5678542848,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433725952,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.6,
+            "Process_Total_Private_Bytes": 15138816,
+            "Timestamp": "2024-09-13 18:49:40"
+        },
+        {
+            "Memory_Available_Bytes": 28679036928,
+            "Memory_Committed_Bytes": 5676875776,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433725952,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 0.8,
+            "Process_Total_Private_Bytes": 15138816,
+            "Timestamp": "2024-09-13 18:49:42"
+        },
+        {
+            "Memory_Available_Bytes": 28678393856,
+            "Memory_Committed_Bytes": 5677518848,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433795584,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.0,
+            "Process_Total_Private_Bytes": 15138816,
+            "Timestamp": "2024-09-13 18:49:44"
+        },
+        {
+            "Memory_Available_Bytes": 28678828032,
+            "Memory_Committed_Bytes": 5677084672,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433795584,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.6,
+            "Process_Total_Private_Bytes": 15138816,
+            "Timestamp": "2024-09-13 18:49:46"
+        },
+        {
+            "Memory_Available_Bytes": 28678508544,
+            "Memory_Committed_Bytes": 5677404160,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433861120,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.0,
+            "Process_Total_Private_Bytes": 15138816,
+            "Timestamp": "2024-09-13 18:49:48"
+        },
+        {
+            "Memory_Available_Bytes": 28678713344,
+            "Memory_Committed_Bytes": 5677199360,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433988096,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.2000000000000002,
+            "Process_Total_Private_Bytes": 15138816,
+            "Timestamp": "2024-09-13 18:49:50"
+        },
+        {
+            "Memory_Available_Bytes": 28679864320,
+            "Memory_Committed_Bytes": 5676048384,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4433988096,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.8,
+            "Process_Total_Private_Bytes": 15138816,
+            "Timestamp": "2024-09-13 18:49:52"
+        },
+        {
+            "Memory_Available_Bytes": 28679073792,
+            "Memory_Committed_Bytes": 5676838912,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4434053632,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.2,
+            "Process_Total_Private_Bytes": 15142912,
+            "Timestamp": "2024-09-13 18:49:54"
+        },
+        {
+            "Memory_Available_Bytes": 28678877184,
+            "Memory_Committed_Bytes": 5677035520,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4434110976,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.0,
+            "Process_Total_Private_Bytes": 15142912,
+            "Timestamp": "2024-09-13 18:49:56"
+        },
+        {
+            "Memory_Available_Bytes": 28679139328,
+            "Memory_Committed_Bytes": 5676773376,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4434110976,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.3,
+            "Process_Total_Private_Bytes": 15142912,
+            "Timestamp": "2024-09-13 18:49:58"
+        },
+        {
+            "Memory_Available_Bytes": 28679200768,
+            "Memory_Committed_Bytes": 5676711936,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4434213376,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.0,
+            "Process_Total_Private_Bytes": 15142912,
+            "Timestamp": "2024-09-13 18:50:00"
+        },
+        {
+            "Memory_Available_Bytes": 28680032256,
+            "Memory_Committed_Bytes": 5675880448,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4434270720,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 1.4,
+            "Process_Total_Private_Bytes": 15147008,
+            "Timestamp": "2024-09-13 18:50:02"
+        },
+        {
+            "Memory_Available_Bytes": 28678975488,
+            "Memory_Committed_Bytes": 5676937216,
+            "PhysicalDisk_Total_Disk_Read_Bytes/sec": 3700935168,
+            "PhysicalDisk_Total_Disk_Write_Bytes/sec": 4434336256,
+            "PhysicalDisk_Total_Disk_Read_Time": 363,
+            "PhysicalDisk_Total_Disk_Write_Time": 101,
+            "Processor_Total_Processor_Time": 2.2,
+            "Process_Total_Private_Bytes": 15151104,
+            "Timestamp": "2024-09-13 18:50:04"
+        }
+    ]
+}
