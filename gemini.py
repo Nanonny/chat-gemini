@@ -64,7 +64,7 @@ Instructions:
 1. **Analyze:** Carefully examine the provided text context.
 2. **Synthesize:** Integrate information textual elements.
 3. **Reason:**  Deduce logical connections and inferences to address the question.
-4. **Respond:** Provide a concise, accurate answer in the following format then Return these statements as a JSON Object with the structure:
+4. **Respond:** Provide a concise, accurate answer in the following format then Return these statements as a JSON Object with the structure contain in head name "message":
 
     **Problem**: [Show a problem which analysis from all data , separate problem you found by each topic and report]
     **Explanation**: [Direct response to the question Root cause analysis and Bullet-point reasoning steps if applicable]
@@ -72,7 +72,9 @@ Instructions:
     **departments**: [Give me a recommandation person who can give advice or will be troubleshooting to a problem.]
 
     and [don't!! write ```json in output], [don't write * ** on every value pairs].
-
+    with each problem and its corresponding details being stored under its unique id []"id":] n . You can keep adding more objects with new id values for each Problem only.
+    each problem and its corresponding details must being stored under its unique id only!
+    don't start unique id by "problem1": , "problem2": like this it not what i want.
 5. **Ambiguity:** If the context is insufficient to answer, respond "Not enough context to answer."
 
 
