@@ -85,7 +85,7 @@ Please Analyze log data from json format file and recommand or guide how should 
 
 
 
-json_string = gemini.get_gemini(API_KEYS="AIzaSyCrDbkd286r0RDi2xYBXBAOLx2kgl1_Yn4", promt_and_text=prompt)
+json_string = gemini.get_gemini(API_KEYS="", promt_and_text=prompt)
 print(json_string)
 
 
